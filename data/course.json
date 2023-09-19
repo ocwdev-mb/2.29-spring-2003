@@ -1,0 +1,63 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Hydrodynamics"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Numerical Simulation"
+    ]
+  ],
+  "legacy_uid": "65c34296-b041-4211-9409-baf580f37192",
+  "instructors": {
+    "content": [
+      "d634ca87-0659-c6eb-1e24-d30b644757bb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fd4ecc4a-1d95-9695-cd8a-647999c2baef",
+    "website": "2-29-numerical-marine-hydrodynamics-13-024-spring-2003"
+  },
+  "course_title": "Numerical Marine Hydrodynamics (13.024)",
+  "course_description": "This course is an introduction to numerical methods: interpolation, differentiation, integration, and systems of linear equations. It covers the solution of differential equations by numerical integration, as well as partial differential equations of inviscid hydrodynamics: finite difference methods, boundary integral equation panel methods. Also addressed are introductory numerical lifting surface computations, fast Fourier transforms, the numerical representation of deterministic and random sea waves, as well as integral boundary layer equations and numerical solutions.\n\nThis course was originally offered in Course 13 (Department of Ocean Engineering) as 13.024. In 2005, ocean engineering subjects became part of Course 2 (Department of Mechanical Engineering), and this course was renumbered 2.29.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.29",
+  "course_image_thumbnail": {
+    "content": "ebd6d751-cdfc-0b5b-5ce8-cbf673f7b2b1",
+    "website": "2-29-numerical-marine-hydrodynamics-13-024-spring-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Course Introduction",
+    "Problem Sets",
+    "Programming Assignments"
+  ],
+  "site_uid": "0bb7d218-8c34-48dc-9751-41f26065bfb5",
+  "site_short_id": "2.29-spring-2003",
+  "title": "Course Metadata"
+}
